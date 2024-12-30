@@ -1,4 +1,4 @@
-import proxy.BanqueService;
+git import proxy.BanqueService;
 import proxy.BanqueWS;
 import proxy.Compte;
 
